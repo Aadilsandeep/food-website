@@ -103,7 +103,9 @@ This project was built to practice:
 Add screenshots of the website here:
 
 ```
-screenshots/homepage.png
+[PHOTO-2026-06-04-23-28-53.jpg.zip](https://github.com/user-attachments/files/28607744/PHOTO-2026-06-04-23-28-53.jpg.zip)
+
+
 ```
 
 ## 👨‍💻 Author
